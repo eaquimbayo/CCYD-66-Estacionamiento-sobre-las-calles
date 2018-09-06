@@ -2,4 +2,4 @@
 # Integrantes
 - David Mendez
 - Diego Rodriguez
-- Efrain quimbayo C
+- Efrain Quimbayo
